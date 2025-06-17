@@ -18,4 +18,6 @@ Kevin Novais:
 
 <h1>Sumário</h1>
 
+- [Home](https://github.com/Bruno616/Mostra-Cena/wiki)
+
 - [Visão geral](https://github.com/Bruno616/Mostra-Cena/wiki/1.-Vis%C3%A3o-geral)
