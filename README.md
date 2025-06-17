@@ -20,4 +20,5 @@ Kevin Novais:
 
 - [Home](https://github.com/Bruno616/Mostra-Cena/wiki)
 - [Visão geral](https://github.com/Bruno616/Mostra-Cena/wiki/1.-Vis%C3%A3o-geral)
-- [Desenvolvimento da Cena](https://github.com/Bruno616/Mostra-Cena/wiki/2.-Desenvolvimento-da-cena)
+- [Desenvolvimento da cena](https://github.com/Bruno616/Mostra-Cena/wiki/2.-Desenvolvimento-da-cena)
+- [Assets Utilizados](https://github.com/Bruno616/Mostra-Cena/wiki/3.-Assets-Utilizados)
