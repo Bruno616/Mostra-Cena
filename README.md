@@ -17,4 +17,5 @@ Bruno Queiroz:
 Kevin Novais:
 
 <h1>Sumário</h1>
-- [Visão Geral] (https://github.com/Bruno616/Mostra-Cena/wiki/1.-Vis%C3%A3o-Geral)
+
+- [Visão geral](https://github.com/Bruno616/Mostra-Cena/wiki/1.-Vis%C3%A3o-geral)
