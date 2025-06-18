@@ -14,7 +14,7 @@
 <h1>Relatório</h1>
 Bruno Queiroz: documentação, diagrama de classes
 <br>
-Kevin Novais:documentação, composição da cena
+Kevin Novais: documentação, composição da cena
 
 <h1>Link Jogo</h1>
 https://drive.google.com/drive/folders/1T5DRxZVaGP1I8a_lzXkj2XgXVKI2z4tU?usp=sharing
