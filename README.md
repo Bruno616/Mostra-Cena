@@ -12,9 +12,9 @@
 </p>
 
 <h1>Relatório</h1>
-Bruno Queiroz:
+Bruno Queiroz: documentação, diagrama de classes
 <br>
-Kevin Novais:
+Kevin Novais:documentação, composição da cena
 
 <h1>Link Jogo</h1>
 https://drive.google.com/drive/folders/1T5DRxZVaGP1I8a_lzXkj2XgXVKI2z4tU?usp=sharing
@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/1T5DRxZVaGP1I8a_lzXkj2XgXVKI2z4tU?usp=sha
 - [Visão geral](https://github.com/Bruno616/Mostra-Cena/wiki/1.-Vis%C3%A3o-geral)
 - [Desenvolvimento da cena](https://github.com/Bruno616/Mostra-Cena/wiki/2.-Desenvolvimento-da-cena)
 - [Assets Utilizados](https://github.com/Bruno616/Mostra-Cena/wiki/3.-Assets-Utilizados)
-- [Diagrama](https://github.com/Bruno616/Mostra-Cena/wiki/4.-Diagrama-de-classes)
+- [Diagrama de classes](https://github.com/Bruno616/Mostra-Cena/wiki/4.-Diagrama-de-classes)
