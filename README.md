@@ -9,6 +9,7 @@
 <p>
   Bruno Queiroz Plata <br>
   Kevin Novais Bezerra <br>
+  
   João Paulo Filho <br>
   Lucas Soares <br>
 </p>
@@ -18,6 +19,7 @@ Bruno Queiroz: documentação, diagrama de classes
 <br>
 Kevin Novais: documentação, composição da cena
 <br>
+
 João Paulo Filho: documentação, composição e planejamneto da cena
 <br>
 Lucas Soares: documentação, composição e planejamento de cena
