@@ -17,6 +17,10 @@
 Bruno Queiroz: documentação, diagrama de classes
 <br>
 Kevin Novais: documentação, composição da cena
+<br>
+João Paulo Filho: documentação, composição e planejamneto da cena
+<br>
+Lucas Soares: documentação, composição e planejamento de cena
 
 <h1>Link Jogo</h1>
 https://drive.google.com/drive/folders/1T5DRxZVaGP1I8a_lzXkj2XgXVKI2z4tU?usp=sharing
