@@ -9,6 +9,8 @@
 <p>
   Bruno Queiroz Plata <br>
   Kevin Novais Bezerra
+  João Paulo Filho
+  Lucas Soares
 </p>
 
 <h1>Relatório</h1>
