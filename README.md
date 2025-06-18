@@ -9,7 +9,7 @@
 <p>
   Bruno Queiroz Plata <br>
   Kevin Novais Bezerra <br>
-  <br>
+  
   João Paulo Filho <br>
   Lucas Soares <br>
 </p>
