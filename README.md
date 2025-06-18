@@ -8,9 +8,9 @@
 <h1>Integrantes</h1>
 <p>
   Bruno Queiroz Plata <br>
-  Kevin Novais Bezerra
-  João Paulo Filho
-  Lucas Soares
+  Kevin Novais Bezerra <br>
+  João Paulo Filho <br>
+  Lucas Soares <br>
 </p>
 
 <h1>Relatório</h1>
