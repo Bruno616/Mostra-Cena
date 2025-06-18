@@ -19,7 +19,7 @@ Bruno Queiroz: documentação, diagrama de classes
 <br>
 Kevin Novais: documentação, composição da cena
 <br>
-
+<br>
 João Paulo Filho: documentação, composição e planejamneto da cena
 <br>
 Lucas Soares: documentação, composição e planejamento de cena
