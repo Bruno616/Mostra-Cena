@@ -2,8 +2,8 @@
 
 <h1>Defense of Universe</h1>
 <p>
- Defense of Universe é um jogo de Tower Defense em primeira pessoa, onde o jogador enfrenta hordas de inimigos vindos de portais dimensionais e deve proteger diferentes cenários inspirados em filmes. Na wiki falaremos sobre duas cenas principais:
-  Cena 1: Baseada no filme Bacurau, ambientada em uma cidade do sertão nordestino
+ Defense of Universe é um jogo de Tower Defense em primeira pessoa, onde o jogador enfrenta hordas de inimigos vindos de portais dimensionais e deve proteger diferentes cenários inspirados em filmes. Na wiki falaremos sobre duas cenas principais: <br>
+  Cena 1: Baseada no filme Bacurau, ambientada em uma cidade do sertão nordestino <br>
   Cena 2: Inspirada em Shrek 3, ambientada no pântano do shrek.
 </p>
 
