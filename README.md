@@ -36,5 +36,5 @@ https://drive.google.com/drive/folders/1T5DRxZVaGP1I8a_lzXkj2XgXVKI2z4tU?usp=sha
 - [Desenvolvimento da cena 1](https://github.com/Bruno616/Mostra-Cena/wiki/2.-Desenvolvimento-da-Cena-1)
 - [Visão geral Cena 2](https://github.com/Bruno616/Mostra-Cena/wiki/3.-Vis%C3%A3o-geral-Cena-2)
 - [Desenvolvimento da cena 2](https://github.com/Bruno616/Mostra-Cena/wiki/4.-Desenvolvimento-da-Cena-2)
-- [Assets Utilizados](https://github.com/Bruno616/Mostra-Cena/wiki/3.-Assets-Utilizados)
-- [Diagrama de classes](https://github.com/Bruno616/Mostra-Cena/wiki/4.-Diagrama-de-classes)
+- [Assets Utilizados](https://github.com/Bruno616/Mostra-Cena/wiki/5.-Assets-Utilizados)
+- [Diagrama de classes](https://github.com/Bruno616/Mostra-Cena/wiki/6.-Diagrama-de-classes)
