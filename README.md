@@ -24,14 +24,13 @@
 </p>
 
 <h1>Relatório</h1>
-Bruno Queiroz: documentação, diagrama de classes
+Bruno Queiroz: documentação, diagrama de classes e programação do mobile
+<br>
+João Paulo Filho: documentação, composição, planejamneto da cena e programação do mobile
 <br>
 Kevin Novais: documentação, composição da cena
 <br>
-<br>
-João Paulo Filho: documentação, composição e planejamneto da cena
-<br>
-Lucas Soares: documentação, composição e planejamento de cena
+Lucas Soares: documentação, composição e planejamento de cena e implementação dos códigos
 
 <h1>Link Jogo</h1>
 https://drive.google.com/drive/folders/1c7tA11qvPAbqbcwMaB8w1BLYsRJMTDsj
