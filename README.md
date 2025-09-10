@@ -47,3 +47,4 @@ https://drive.google.com/drive/folders/1c7tA11qvPAbqbcwMaB8w1BLYsRJMTDsj
 - [Cena 5](https://github.com/Bruno616/Mostra-Cena/wiki/5.-Cena-5)
 - [Assets Utilizados](https://github.com/Bruno616/Mostra-Cena/wiki/6.-Assets-Utilizados)
 - [Diagrama de Classes](https://github.com/Bruno616/Mostra-Cena/wiki/7.-Diagrama-de-classes)
+- [Scripts](https://github.com/Bruno616/Mostra-Cena/wiki/8.-Scripts)
