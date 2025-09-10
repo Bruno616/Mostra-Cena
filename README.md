@@ -13,7 +13,7 @@
   Kevin Novais Bezerra <br>
   
   João Paulo B.P de Carvalho Filho <br>
-  Lucas Soares <br>
+  Lucas Soares de Araujo <br>
 </p>
 
 <h1>Relatório</h1>
