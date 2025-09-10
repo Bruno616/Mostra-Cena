@@ -18,9 +18,8 @@
 <h1>Integrantes</h1>
 <p>
   Bruno Queiroz Plata <br>
-  Kevin Novais Bezerra <br>
-  
   João Paulo B.P de Carvalho Filho <br>
+  Kevin Novais Bezerra <br>
   Lucas Soares de Araujo <br>
 </p>
 
